@@ -1,0 +1,28 @@
+{
+  "name": "metalsmith-new-tab",
+  "version": "0.0.2",
+  "description": "A Metalsmith plugin that adds target = _blank to all anchor elements.",
+  "keywords": [
+    "metalsmith",
+    "new",
+    "tab",
+    "window",
+    "popup",
+    "plugin"
+  ],
+  "author": "Andy Jiang <andyjiang@gmail.com>",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/lambtron/metalsmith-new-tab",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lambtron/metalsmith-new-tab"
+  },
+  "bugs": {
+    "url": "https://github.com/lambtron/metalsmith-new-tab/issues"
+  },
+  "main": "lib/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.19.0"
+  }
+}
